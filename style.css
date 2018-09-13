@@ -1,0 +1,21 @@
+
+body {
+  background: #333;
+}
+
+.text{
+  color: white;
+  font-family: Courier;
+}
+
+.hideme{
+  text-decoration: none;
+  color: white;
+}
+
+.well{
+  background-color: white;
+  padding:20px;
+  border-radius: 15px;
+  margin-bottom:15px;
+}
